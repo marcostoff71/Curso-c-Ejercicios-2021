@@ -1,0 +1,2 @@
+C:\Users\lenovo\source\2020\Marco\Programacion c++\c++\13 Pilas\Pilas\Debug\Pilas.exe
+C:\Users\lenovo\source\2020\Marco\Programacion c++\c++\13 Pilas\Pilas\Debug\Pilas.pdb
