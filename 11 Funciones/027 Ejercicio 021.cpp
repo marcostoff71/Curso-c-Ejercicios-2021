@@ -11,7 +11,7 @@ int main(){
 	cin>>num;
 	cout<<"Dame la potencia: ";
 	cin>>po;
-	resultado=numPotencia(num,po);
+	resultado=numPotencia(2,3);
 	
 	cout<<"El resultado es: "<<resultado<<endl;
 	

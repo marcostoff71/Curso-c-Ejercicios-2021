@@ -110,7 +110,7 @@ void eliminarElemento(float n){
 		Nodo *anterior=NULL;
 		
 		while(auxBorrar!=NULL&&auxBorrar->dato!=n){
-			anterior=lista;
+			anterior=auxBorrar;
 			auxBorrar=auxBorrar->siguiente;
 		}
 		if(auxBorrar==NULL){

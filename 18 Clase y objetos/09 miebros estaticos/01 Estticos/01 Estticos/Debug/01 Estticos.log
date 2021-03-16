@@ -1,0 +1,4 @@
+﻿  01 Estticos.cpp
+C:\Users\lenovo\Cursos\C++\Programacion c++\c++\18 Clase y objetos\09 miebros estaticos\01 Estticos\01 Estticos\01 Estticos.cpp(21,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\lenovo\Cursos\C++\Programacion c++\c++\18 Clase y objetos\09 miebros estaticos\01 Estticos\01 Estticos\01 Estticos.cpp(12,12): warning C4930: 'Estico estatico(void)': no se ha llamado a la función prototipo (¿se pensó una definición de variable?)
+  01 Estticos.vcxproj -> C:\Users\lenovo\Cursos\C++\Programacion c++\c++\18 Clase y objetos\09 miebros estaticos\01 Estticos\Debug\01 Estticos.exe

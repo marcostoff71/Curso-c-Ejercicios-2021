@@ -42,7 +42,7 @@ void QuickSort(int arr[],int primero,int ultimo){
 	
 }
 int main(){
-	int num[]{4,3,2,1};
+	int num[]={4,3,2,1};
 	
 	QuickSort(num,0,3);
 	
@@ -51,6 +51,6 @@ int main(){
 	}
 	
 	cout<<endl;
-	
-	
+	system("pause");
+	return 0;
 }

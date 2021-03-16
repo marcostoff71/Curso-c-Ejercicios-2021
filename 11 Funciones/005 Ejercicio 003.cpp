@@ -16,7 +16,9 @@ int potencia;
 int main(){
 	PedirDatos();
 	NumPotencia(numero,potencia);
-	
+	int num;
+	num=pow(2,3);
+	cout<<num<<endl;
 	system("pause");
 	return 0;
 }
@@ -29,7 +31,7 @@ void PedirDatos(){
 void NumPotencia(float n,int p){
 	float resultado=1;
 	for(int i=0;i<p;i++){
-		resultado*=p;
+		resultado*=n;
 	}
 	//resultado=pow(n,p);
 	cout<<"\nEl resultado de "<<n<<"^"<<p<<" = "<<resultado<<endl;

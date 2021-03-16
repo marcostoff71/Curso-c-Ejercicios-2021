@@ -1,0 +1,2 @@
+C:\Users\lenovo\Cursos\C++\Programacion c++\c++\17 Archivos\007 Ejercicio 004\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\lenovo\Cursos\C++\Programacion c++\c++\17 Archivos\007 Ejercicio 004\ConsoleApplication1\Debug\ConsoleApplication1.pdb

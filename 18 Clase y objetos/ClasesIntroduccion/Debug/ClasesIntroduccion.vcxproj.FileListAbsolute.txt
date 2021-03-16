@@ -1,0 +1,2 @@
+C:\Users\lenovo\Cursos\C++\Programacion c++\c++\18 Clase y objetos\ClasesIntroduccion\Debug\ClasesIntroduccion.exe
+C:\Users\lenovo\Cursos\C++\Programacion c++\c++\18 Clase y objetos\ClasesIntroduccion\Debug\ClasesIntroduccion.pdb
